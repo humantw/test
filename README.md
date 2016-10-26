@@ -22,16 +22,16 @@ Test repo for git test
 >> f  
     
     
-code block
+code block  
     `this is a code block`
 
 ***
 
---abc--
+_abc_
 
 __cde__
 
-==efg==
+
 
 *hij*
 
