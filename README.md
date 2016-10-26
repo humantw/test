@@ -23,7 +23,7 @@ Test repo for git test
     
     
 code block
-    this is a code block
+    `this is a code block`
 
 ***
 
