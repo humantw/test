@@ -6,16 +6,16 @@ Test repo for git test
 + 2
 
 ### 引言
->  test  
->  test2
-   >    123456  
+>   test  
+>   test2
+    > 123456  
 
 * a
-    > aaa
+      > aaa
 
 * b
 * c
-    > d  
+      > d  
     
 > e  
   > f  
