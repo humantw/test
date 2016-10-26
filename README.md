@@ -42,9 +42,9 @@ __cde__
 
 [my site](https://github.com/humantw/test/)
 
-[test image][image1]
+![test image][image1]
 
-[image1]:https://images-fe.ssl-images-amazon.com/images/G/09/zh_CN/common/sprites/sprite-media-platform._CB273115944_.jpg
+[image1]:https://images-na.ssl-images-amazon.com/images/I/81oYcOiUP%2BL._SL1500_.jpg
 
 
 
